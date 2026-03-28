@@ -5,7 +5,7 @@
 
 # How to install:
 1. Download the zip archive
-2. Go to your [extensions page](chrome://extensions)
+2. Go to your extensions page (chrome://extensions)
 3. Turn on developer mode
 4. Click "Load unpacked"
 5. Choose the folder with this extension's files
